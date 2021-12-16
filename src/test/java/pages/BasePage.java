@@ -22,7 +22,7 @@ public class BasePage {
 
     }
 
-    public static void avegateToGoogle(String url){
+    public static void navegateTo(String url){
         driver.get(url);
     }
 

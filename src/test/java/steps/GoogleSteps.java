@@ -10,7 +10,7 @@ public class GoogleSteps extends GooglePage {
 
     @Given("°navego en google$")
     public void navegateToGoogle(){
-    google.buscar();
+    google.navegateToGoogle();
     }
    
     @When("°busco algo$")

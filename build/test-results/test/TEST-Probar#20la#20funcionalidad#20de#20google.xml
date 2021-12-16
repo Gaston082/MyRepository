@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Probar la funcionalidad de google" tests="1" skipped="0" failures="1" errors="0" timestamp="2021-12-16T14:59:03" hostname="DESKTOP-4HN6314" time="0.289">
+  <properties/>
+  <testcase name="Buscar algo en google" classname="Probar la funcionalidad de google" time="0.289">
+    <failure message="io.cucumber.junit.UndefinedStepException: The step 'navego en google' and 3 other step(s) are undefined.&#10;You can implement these steps using the snippet(s) below:&#10;&#10;@Given(&quot;navego en google&quot;)&#10;public void navego_en_google() {&#10;    // Write code here that turns the phrase above into concrete actions&#10;    throw new io.cucumber.java.PendingException();&#10;}&#10;@When(&quot;busco algo&quot;)&#10;public void busco_algo() {&#10;    // Write code here that turns the phrase above into concrete actions&#10;    throw new io.cucumber.java.PendingException();&#10;}&#10;@When(&quot;clickear en buscar&quot;)&#10;public void clickear_en_buscar() {&#10;    // Write code here that turns the phrase above into concrete actions&#10;    throw new io.cucumber.java.PendingException();&#10;}&#10;@Then(&quot;tengo resultado&quot;)&#10;public void tengo_resultado() {&#10;    // Write code here that turns the phrase above into concrete actions&#10;    throw new io.cucumber.java.PendingException();&#10;}&#10;" type="io.cucumber.junit.UndefinedStepException">io.cucumber.junit.UndefinedStepException: The step 'navego en google' and 3 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@Given(&quot;navego en google&quot;)
+public void navego_en_google() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When(&quot;busco algo&quot;)
+public void busco_algo() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When(&quot;clickear en buscar&quot;)
+public void clickear_en_buscar() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then(&quot;tengo resultado&quot;)
+public void tengo_resultado() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+</failure>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

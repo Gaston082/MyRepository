@@ -7,8 +7,8 @@ public class GooglePage extends BasePage{
         super(driver);
     }
 
-    public void buscar(){
-        avegateToGoogle("https://www.google.com/"); 
+    public void navegateToGoogle(){
+        navegateTo("https://www.google.com/"); 
     }
         
 }
